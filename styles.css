@@ -13,6 +13,18 @@ h2 {
     font-family: Calibri, 'Trebuchet MS', sans-serif;
 }
 
+h3 {
+    color: rgb(89, 89, 89);
+    text-align: center;
+    position: relative;
+    top: -20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.pig {
+    height: 80px;
+}
+
 .recipes {
     text-align: center;
 }
@@ -27,4 +39,29 @@ img {
     object-fit: cover;
     width: 70%;
     height: 250px;
+}
+
+.recipe-img {
+    object-fit: cover;
+    width: 70%;
+    height: 500px;
+}
+
+p {
+    text-align: center;
+    font-style: italic;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
+    position: relative;
+    top: -10px;
+}
+
+li {
+    font-size: large;
+    margin-left: auto;
+    margin-right: auto;
+    width: 65%;
 }
