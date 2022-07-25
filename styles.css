@@ -14,15 +14,17 @@ h2 {
 }
 
 h3 {
-    color: rgb(89, 89, 89);
+    color: rgb(217, 55, 55);
     text-align: center;
     position: relative;
-    top: -20px;
+    top: 0px;
     font-family: 'Times New Roman', Times, serif;
 }
 
 .pig {
     height: 80px;
+    position: relative;
+    top: 20px;
 }
 
 .recipes {
